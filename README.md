@@ -5,7 +5,11 @@ Songs:
 
 Newly Human Feeling - Moe Shop (feat Jamie Page)
 
-A Little Bit Bad  - Ktiten Sneeze, Tunnelberg, The Musical Ghost
+A Little Bit Bad  - Ktiten Sneeze, Tunnelberg, The Musical Ghos
+
+Static - Flavor Floley
+
+
 
 Origin:
-https://glenthpvs.tumblr.com/player08#music
+https://glen-docs.gitlab.io/player/03/#how-to-install
